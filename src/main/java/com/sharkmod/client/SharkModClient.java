@@ -2,7 +2,7 @@ package com.sharkmod.client;
 
 import com.sharkmod.SharkMod;
 import com.sharkmod.entity.ModEntities;
-import net.minecraft.client.renderer.entity.EntityRenderersEvent;
+import net.minecraftforge.client.event.EntityRenderersEvent;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
